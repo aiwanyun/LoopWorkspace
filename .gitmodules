@@ -52,3 +52,7 @@
 [submodule "MinimedKit"]
 	path = MinimedKit
 	url = https://github.com/LoopKit/MinimedKit.git
+[submodule "Loop"]
+	path = Loop
+	url = https://github.com/aiwanyun/Loop.git
+	branch = dev
