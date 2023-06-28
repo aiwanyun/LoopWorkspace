@@ -54,3 +54,7 @@
 	path = RileyLinkKit
 	url = https://github.com/aiwanyun/RileyLinkKit.git
 	branch = dev
+[submodule "dexcom-share-client-swift"]
+	path = dexcom-share-client-swift
+	url = https://github.com/aiwanyun/dexcom-share-client-swift.git
+	branch = dev
