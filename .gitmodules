@@ -16,3 +16,55 @@
 	path = dexcom-share-client-swift
 	url = https://github.com/aiwanyun/dexcom-share-client-swift.git
 	branch = dev
+[submodule "TidepoolKit"]
+	path = TidepoolKit
+	url = https://github.com/aiwanyun/TidepoolKit.git
+	branch = dev
+[submodule "OmniKit"]
+	path = OmniKit
+	url = https://github.com/aiwanyun/OmniKit.git
+	branch = main
+[submodule "OmniBLE"]
+	path = OmniBLE
+	url = https://github.com/aiwanyun/OmniBLE.git
+	branch = dev
+[submodule "MinimedKit"]
+	path = MinimedKit
+	url = https://github.com/aiwanyun/MinimedKit.git
+	branch = main
+[submodule "LoopSupport"]
+	path = LoopSupport
+	url = https://github.com/aiwanyun/LoopSupport.git
+	branch = dev
+[submodule "LoopOnboarding"]
+	path = LoopOnboarding
+	url = https://github.com/aiwanyun/LoopOnboarding.git
+	branch = dev
+[submodule "CGMBLEKit"]
+	path = CGMBLEKit
+	url = https://github.com/aiwanyun/CGMBLEKit.git
+	branch = dev
+[submodule "G7SensorKit"]
+	path = G7SensorKit
+	url = https://github.com/aiwanyun/G7SensorKit.git
+	branch = main
+[submodule "LogglyService"]
+	path = LogglyService
+	url = https://github.com/aiwanyun/LogglyService.git
+	branch = dev
+[submodule "AmplitudeService"]
+	path = AmplitudeService
+	url = https://github.com/aiwanyun/AmplitudeService.git
+	branch = dev
+[submodule "NightscoutService"]
+	path = NightscoutService
+	url = https://github.com/aiwanyun/NightscoutService.git
+	branch = dev
+[submodule "NightscoutRemoteCGM"]
+	path = NightscoutRemoteCGM
+	url = https://github.com/aiwanyun/NightscoutRemoteCGM.git
+	branch = dev
+[submodule "LoopKit"]
+	path = LoopKit
+	url = https://github.com/aiwanyun/LoopKit.git
+	branch = dev
