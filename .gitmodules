@@ -68,3 +68,12 @@
 	path = LoopKit
 	url = https://github.com/aiwanyun/LoopKit.git
 	branch = dev
+[submodule "LibreTransmitter"]
+	path = LibreTransmitter
+	url = https://github.com/LoopKit/LibreTransmitter.git
+[submodule "MixpanelService"]
+	path = MixpanelService
+	url = https://github.com/LoopKit/MixpanelService
+[submodule "TidepoolService"]
+	path = TidepoolService
+	url = https://github.com/LoopKit/TidepoolService.git
