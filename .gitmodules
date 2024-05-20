@@ -4,9 +4,6 @@
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
-[submodule "OmniBLE"]
-	path = OmniBLE
-	url = https://github.com/LoopKit/OmniBLE.git
 [submodule "TidepoolService"]
 	path = TidepoolService
 	url = https://github.com/LoopKit/TidepoolService.git
@@ -58,3 +55,6 @@
 [submodule "NightscoutService"]
 	path = NightscoutService
 	url = https://github.com/aiwanyun/NightscoutService.git
+[submodule "OmniBLE"]
+	path = OmniBLE
+	url = https://github.com/aiwanyun/OmniBLE.git
