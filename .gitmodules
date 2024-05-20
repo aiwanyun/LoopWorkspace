@@ -19,9 +19,6 @@
 [submodule "OmniKit"]
 	path = OmniKit
 	url = https://github.com/LoopKit/OmniKit.git
-[submodule "MixpanelService"]
-	path = MixpanelService
-	url = https://github.com/LoopKit/MixpanelService
 [submodule "AmplitudeService"]
 	path = AmplitudeService
 	url = https://github.com/aiwanyun/AmplitudeService.git
@@ -58,3 +55,6 @@
 [submodule "Minizip"]
 	path = Minizip
 	url = https://github.com/aiwanyun/Minizip.git
+[submodule "MixpanelService"]
+	path = MixpanelService
+	url = https://github.com/aiwanyun/MixpanelService.git
