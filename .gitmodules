@@ -4,9 +4,6 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopKit/LoopKit.git
-[submodule "CGMBLEKit"]
-	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
@@ -58,3 +55,6 @@
 [submodule "AmplitudeService"]
 	path = AmplitudeService
 	url = https://github.com/aiwanyun/AmplitudeService.git
+[submodule "CGMBLEKit"]
+	path = CGMBLEKit
+	url = https://github.com/aiwanyun/CGMBLEKit.git
