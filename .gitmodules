@@ -1,6 +1,3 @@
-[submodule "RileyLinkKit"]
-	path = RileyLinkKit
-	url = https://github.com/LoopKit/RileyLinkKit
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
@@ -58,3 +55,6 @@
 [submodule "OmniKit"]
 	path = OmniKit
 	url = https://github.com/aiwanyun/OmniKit.git
+[submodule "RileyLinkKit"]
+	path = RileyLinkKit
+	url = https://github.com/aiwanyun/RileyLinkKit.git
