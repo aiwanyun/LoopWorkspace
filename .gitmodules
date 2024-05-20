@@ -4,9 +4,6 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopKit/LoopKit.git
-[submodule "dexcom-share-client-swift"]
-	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
 [submodule "RileyLinkKit"]
 	path = RileyLinkKit
 	url = https://github.com/LoopKit/RileyLinkKit
@@ -58,3 +55,6 @@
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/aiwanyun/CGMBLEKit.git
+[submodule "dexcom-share-client-swift"]
+	path = dexcom-share-client-swift
+	url = https://github.com/aiwanyun/dexcom-share-client-swift.git
