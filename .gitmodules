@@ -1,9 +1,6 @@
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
-[submodule "TidepoolService"]
-	path = TidepoolService
-	url = https://github.com/LoopKit/TidepoolService.git
 [submodule "AmplitudeService"]
 	path = AmplitudeService
 	url = https://github.com/aiwanyun/AmplitudeService.git
@@ -58,3 +55,6 @@
 [submodule "RileyLinkKit"]
 	path = RileyLinkKit
 	url = https://github.com/aiwanyun/RileyLinkKit.git
+[submodule "TidepoolService"]
+	path = TidepoolService
+	url = https://github.com/aiwanyun/TidepoolService.git
