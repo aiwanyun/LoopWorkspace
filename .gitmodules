@@ -10,9 +10,6 @@
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
-[submodule "LoopOnboarding"]
-	path = LoopOnboarding
-	url = https://github.com/LoopKit/LoopOnboarding.git
 [submodule "OmniBLE"]
 	path = OmniBLE
 	url = https://github.com/LoopKit/OmniBLE.git
@@ -58,3 +55,6 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/aiwanyun/LoopKit.git
+[submodule "LoopOnboarding"]
+	path = LoopOnboarding
+	url = https://github.com/aiwanyun/LoopOnboarding.git
