@@ -19,9 +19,6 @@
 [submodule "LoopOnboarding"]
 	path = LoopOnboarding
 	url = https://github.com/LoopKit/LoopOnboarding.git
-[submodule "LogglyService"]
-	path = LogglyService
-	url = https://github.com/LoopKit/LogglyService.git
 [submodule "OmniBLE"]
 	path = OmniBLE
 	url = https://github.com/LoopKit/OmniBLE.git
@@ -58,3 +55,6 @@
 [submodule "LibreTransmitter"]
 	path = LibreTransmitter
 	url = https://github.com/aiwanyun/LibreTransmitter.git
+[submodule "LogglyService"]
+	path = LogglyService
+	url = https://github.com/aiwanyun/LogglyService.git
