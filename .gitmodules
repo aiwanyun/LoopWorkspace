@@ -22,9 +22,6 @@
 [submodule "OmniKit"]
 	path = OmniKit
 	url = https://github.com/LoopKit/OmniKit.git
-[submodule "MinimedKit"]
-	path = MinimedKit
-	url = https://github.com/LoopKit/MinimedKit.git
 [submodule "MixpanelService"]
 	path = MixpanelService
 	url = https://github.com/LoopKit/MixpanelService
@@ -58,3 +55,6 @@
 [submodule "LoopSupport"]
 	path = LoopSupport
 	url = https://github.com/aiwanyun/LoopSupport.git
+[submodule "MinimedKit"]
+	path = MinimedKit
+	url = https://github.com/aiwanyun/MinimedKit.git
