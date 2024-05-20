@@ -1,6 +1,3 @@
-[submodule "LoopKit"]
-	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
 [submodule "RileyLinkKit"]
 	path = RileyLinkKit
 	url = https://github.com/LoopKit/RileyLinkKit
@@ -58,3 +55,6 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/aiwanyun/Loop.git
+[submodule "LoopKit"]
+	path = LoopKit
+	url = https://github.com/aiwanyun/LoopKit.git
