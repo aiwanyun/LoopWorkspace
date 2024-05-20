@@ -4,9 +4,6 @@
 [submodule "NightscoutService"]
 	path = NightscoutService
 	url = https://github.com/LoopKit/NightscoutService.git
-[submodule "Minizip"]
-	path = Minizip
-	url = https://github.com/LoopKit/Minizip.git
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
@@ -58,3 +55,6 @@
 [submodule "MinimedKit"]
 	path = MinimedKit
 	url = https://github.com/aiwanyun/MinimedKit.git
+[submodule "Minizip"]
+	path = Minizip
+	url = https://github.com/aiwanyun/Minizip.git
