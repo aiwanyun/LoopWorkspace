@@ -1,9 +1,6 @@
 [submodule "RileyLinkKit"]
 	path = RileyLinkKit
 	url = https://github.com/LoopKit/RileyLinkKit
-[submodule "NightscoutService"]
-	path = NightscoutService
-	url = https://github.com/LoopKit/NightscoutService.git
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/LoopKit/TrueTime.swift.git
@@ -58,3 +55,6 @@
 [submodule "NightscoutRemoteCGM"]
 	path = NightscoutRemoteCGM
 	url = https://github.com/aiwanyun/NightscoutRemoteCGM.git
+[submodule "NightscoutService"]
+	path = NightscoutService
+	url = https://github.com/aiwanyun/NightscoutService.git
