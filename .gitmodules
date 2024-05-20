@@ -10,9 +10,6 @@
 [submodule "OmniBLE"]
 	path = OmniBLE
 	url = https://github.com/LoopKit/OmniBLE.git
-[submodule "NightscoutRemoteCGM"]
-	path = NightscoutRemoteCGM
-	url = https://github.com/LoopKit/NightscoutRemoteCGM.git
 [submodule "TidepoolService"]
 	path = TidepoolService
 	url = https://github.com/LoopKit/TidepoolService.git
@@ -58,3 +55,6 @@
 [submodule "MixpanelService"]
 	path = MixpanelService
 	url = https://github.com/aiwanyun/MixpanelService.git
+[submodule "NightscoutRemoteCGM"]
+	path = NightscoutRemoteCGM
+	url = https://github.com/aiwanyun/NightscoutRemoteCGM.git
