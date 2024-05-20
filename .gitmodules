@@ -43,9 +43,6 @@
 [submodule "MixpanelService"]
 	path = MixpanelService
 	url = https://github.com/LoopKit/MixpanelService
-[submodule "LibreTransmitter"]
-	path = LibreTransmitter
-	url = https://github.com/LoopKit/LibreTransmitter.git
 [submodule "AmplitudeService"]
 	path = AmplitudeService
 	url = https://github.com/aiwanyun/AmplitudeService.git
@@ -58,3 +55,6 @@
 [submodule "G7SensorKit"]
 	path = G7SensorKit
 	url = https://github.com/aiwanyun/G7SensorKit.git
+[submodule "LibreTransmitter"]
+	path = LibreTransmitter
+	url = https://github.com/aiwanyun/LibreTransmitter.git
